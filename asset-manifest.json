@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Netflix-Clone-UI-React/static/css/main.31d6cfe0.css",
-    "main.js": "/Netflix-Clone-UI-React/static/js/main.08cf439c.js",
-    "index.html": "/Netflix-Clone-UI-React/index.html",
-    "main.08cf439c.js.map": "/Netflix-Clone-UI-React/static/js/main.08cf439c.js.map"
+    "main.css": "/Movie-N-Clone-UI-React/static/css/main.31d6cfe0.css",
+    "main.js": "/Movie-N-Clone-UI-React/static/js/main.08cf439c.js",
+    "index.html": "/Movie-N-Clone-UI-React/index.html",
+    "main.08cf439c.js.map": "/Movie-N-Clone-UI-React/static/js/main.08cf439c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
