@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Movie-N-Clone-UI-React/static/css/main.25483f33.css",
-    "main.js": "/Movie-N-Clone-UI-React/static/js/main.a6b99390.js",
+    "main.css": "/Movie-N-Clone-UI-React/static/css/main.83db84bb.css",
+    "main.js": "/Movie-N-Clone-UI-React/static/js/main.0d0f1246.js",
     "static/media/img1.jpg": "/Movie-N-Clone-UI-React/static/media/img1.58f53386bef6e113792f.jpg",
     "static/media/Netflix-logo.png": "/Movie-N-Clone-UI-React/static/media/Netflix-logo.a6f648e00f90fe78bffc.png",
     "index.html": "/Movie-N-Clone-UI-React/index.html",
-    "main.25483f33.css.map": "/Movie-N-Clone-UI-React/static/css/main.25483f33.css.map",
-    "main.a6b99390.js.map": "/Movie-N-Clone-UI-React/static/js/main.a6b99390.js.map"
+    "main.83db84bb.css.map": "/Movie-N-Clone-UI-React/static/css/main.83db84bb.css.map",
+    "main.0d0f1246.js.map": "/Movie-N-Clone-UI-React/static/js/main.0d0f1246.js.map"
   },
   "entrypoints": [
-    "static/css/main.25483f33.css",
-    "static/js/main.a6b99390.js"
+    "static/css/main.83db84bb.css",
+    "static/js/main.0d0f1246.js"
   ]
 }
